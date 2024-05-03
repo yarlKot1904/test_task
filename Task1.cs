@@ -8,14 +8,13 @@ namespace test_task
 {
     internal class Task1
     {
-        public static void solve(int number)
+        public static string Solve(int number)
         {
             byte last_digit = (byte)(number % 10);
 
             if(number > 10 && number < 20)
             {
-                Console.WriteLine(number + " компьютеров");
-                return;
+                return number + " компьютеров";
             }
 
             switch (last_digit)
@@ -26,18 +25,15 @@ namespace test_task
                 case 7:
                 case 8:
                 case 9:
-                    Console.WriteLine(number + " компьютеров");
-                    break;
+                    return number + " компьютеров";
                 case 1:
-                    Console.WriteLine(number + " компьютер");
-                    break;
+                    return number + " компьютер";
                 case 2:
                 case 3:
                 case 4:
-                    Console.WriteLine(number + " компьютера");
-                    break;
-                
+                    return number + " компьютера";                
             }
+            throw new Exception("incorrect value");
         }
     }
 }
