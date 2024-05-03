@@ -1,0 +1,15 @@
+C:\Users\Егор\source\repos\test_task\bin\Debug\net6.0\test_task.exe
+C:\Users\Егор\source\repos\test_task\bin\Debug\net6.0\test_task.deps.json
+C:\Users\Егор\source\repos\test_task\bin\Debug\net6.0\test_task.runtimeconfig.json
+C:\Users\Егор\source\repos\test_task\bin\Debug\net6.0\test_task.dll
+C:\Users\Егор\source\repos\test_task\bin\Debug\net6.0\test_task.pdb
+C:\Users\Егор\source\repos\test_task\obj\Debug\net6.0\test_task.csproj.AssemblyReference.cache
+C:\Users\Егор\source\repos\test_task\obj\Debug\net6.0\test_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\source\repos\test_task\obj\Debug\net6.0\test_task.AssemblyInfoInputs.cache
+C:\Users\Егор\source\repos\test_task\obj\Debug\net6.0\test_task.AssemblyInfo.cs
+C:\Users\Егор\source\repos\test_task\obj\Debug\net6.0\test_task.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\test_task\obj\Debug\net6.0\test_task.dll
+C:\Users\Егор\source\repos\test_task\obj\Debug\net6.0\refint\test_task.dll
+C:\Users\Егор\source\repos\test_task\obj\Debug\net6.0\test_task.pdb
+C:\Users\Егор\source\repos\test_task\obj\Debug\net6.0\test_task.genruntimeconfig.cache
+C:\Users\Егор\source\repos\test_task\obj\Debug\net6.0\ref\test_task.dll
